@@ -4,6 +4,8 @@
 
 I build things at the intersection of data, AI, and embedded systems. Currently pursuing my master's with a GPA of 1.0, after completing a B.Sc. in Computer Engineering on a full scholarship. Open to internships and working student roles.
 
+**→ [See my full portfolio](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/) — projects, experience, travel, and more.**
+
 ---
 
 ## Tech Stack
