@@ -1,3 +1,5 @@
+<img src="https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/me/avatar.png" alt="Recep Ulaş Uzun" width="120" align="right" style="border-radius:50%;margin-left:16px"/>
+
 # Hey, I'm Recep Ulaş Uzun 👋
 
 **M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Münih, Almanya**
