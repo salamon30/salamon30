@@ -14,6 +14,8 @@ I build things at the intersection of data, AI, and embedded systems. Currently 
 
 **→ [See my full portfolio](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/) — projects, experience, travel, and more.**
 
+[![Portfolio Preview](https://raw.githubusercontent.com/salamon30/portfolio/main/public/preview.png)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
+
 ### Tech Stack
 
 **Languages**
@@ -67,6 +69,8 @@ Turkish Junior Tennis Champion (2014) · 18+ years competitive experience · Cur
 Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler geliştiriyorum. Lisansı tam burslu tamamladıktan sonra şu an 1.0 not ortalamasıyla yüksek lisans yapıyorum. Staj ve çalışan-öğrenci pozisyonlarına açığım.
 
 **→ [Portfolyoma göz at](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/) — projeler, deneyimler, seyahat ve daha fazlası.**
+
+[![Portfolyo Önizleme](https://raw.githubusercontent.com/salamon30/portfolio/main/public/preview.png)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
 
 ### Teknoloji Yığını
 
