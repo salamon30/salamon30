@@ -2,7 +2,7 @@
 
 # Hey, I'm Recep Ulaş Uzun 👋
 
-**M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Münih, Almanya**
+**M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Erlangen, Germany**
 
 🇬🇧 [English](#english) · 🇹🇷 [Türkçe](#türkçe)
 
@@ -10,11 +10,19 @@
 
 ## English
 
-I build things at the intersection of data, AI, and embedded systems. Currently pursuing my master's with a GPA of 1.0, after completing a B.Sc. in Computer Engineering on a full scholarship. Open to internships and working student roles.
+I build things at the intersection of data, AI, and embedded systems. Currently pursuing my master's with a GPA of 1.0, after completing a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
 
 **→ [See my full portfolio](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/) — projects, experience, travel, and more.**
 
 [![Portfolio Preview](https://raw.githubusercontent.com/salamon30/portfolio/main/public/preview.png)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
+
+### Featured Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [**Helmet Detection**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | 92.8% mAP@50 · real-time PPE compliance |
+| [**Sensor Anomaly Detection**](https://github.com/salamon30/sensor-anomaly-detection) | Isolation Forest · scikit-learn | 95% F1 · unsupervised, no labels needed |
+| [**Coil Cooling Digital Twin**](https://github.com/salamon30/cool-cooling) | Python · Streamlit · SciPy | Industry collab with Borçelik — live thermal simulation |
 
 ### Tech Stack
 
@@ -27,6 +35,7 @@ I build things at the intersection of data, AI, and embedded systems. Currently 
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-4285F4?style=flat&logo=google&logoColor=white)
 
 **Data & Analytics**
@@ -40,9 +49,9 @@ I build things at the intersection of data, AI, and embedded systems. Currently 
 
 ### What I'm working on
 
-- Sensor anomaly detection pipelines in ROS 2
-- Computer vision projects with YOLOv8 and Edge AI
-- Image processing research at THD
+- Real-time computer vision with YOLOv8 and Edge AI
+- Unsupervised anomaly detection for industrial sensor streams
+- Digital twin methodology for thermal/cooling systems
 
 ### Experience highlights
 
@@ -54,23 +63,31 @@ I build things at the intersection of data, AI, and embedded systems. Currently 
 
 ### Beyond the code
 
-Turkish Junior Tennis Champion (2014) · 18+ years competitive experience · Currently competing at 1. FC Nürnberg · Coaching at University of Regensburg and FAU Erlangen-Nürnberg
+Turkish Junior Tennis Champion (2014) · 18+ years competitive experience · Currently competing at 1. FC Nürnberg · Coaching at FAU Erlangen-Nürnberg and University of Regensburg
 
 ### Find me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--recepuzun.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-recepuzun.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-recep--ulas--uzun-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-ulas-uzun/)
-[![Email](https://img.shields.io/badge/Email-ulasch__uzun%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ulasch_uzun@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-recepulas.uzun%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:recepulas.uzun@gmail.com)
 
 ---
 
 ## Türkçe
 
-Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler geliştiriyorum. Lisansı tam burslu tamamladıktan sonra şu an 1.0 not ortalamasıyla yüksek lisans yapıyorum. Staj ve çalışan-öğrenci pozisyonlarına açığım.
+Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler geliştiriyorum. Lisansı tam burslu tamamladıktan sonra şu an 1.0 not ortalamasıyla yüksek lisans yapıyorum. Bayern'de Werkstudent pozisyonlarına açığım.
 
 **→ [Portfolyoma göz at](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/) — projeler, deneyimler, seyahat ve daha fazlası.**
 
 [![Portfolyo Önizleme](https://raw.githubusercontent.com/salamon30/portfolio/main/public/preview.png)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
+
+### Öne Çıkan Projeler
+
+| Proje | Stack | Öne Çıkan |
+|---|---|---|
+| [**Kask Tespiti**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | %92.8 mAP@50 · gerçek zamanlı KKD uyumluluğu |
+| [**Sensör Anomali Tespiti**](https://github.com/salamon30/sensor-anomaly-detection) | Isolation Forest · scikit-learn | %95 F1 · etiket gerektirmeyen denetimsiz öğrenme |
+| [**Soğutma Dijital İkizi**](https://github.com/salamon30/cool-cooling) | Python · Streamlit · SciPy | Borçelik iş birliği — canlı termal simülasyon |
 
 ### Teknoloji Yığını
 
@@ -83,6 +100,7 @@ Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler gelişti
 **YZ / Makine Öğrenmesi**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-4285F4?style=flat&logo=google&logoColor=white)
 
 **Veri & Analitik**
@@ -96,9 +114,9 @@ Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler gelişti
 
 ### Şu an neler yapıyorum
 
-- ROS 2 ile sensör anomali tespit pipeline'ları
-- YOLOv8 ve Edge AI ile bilgisayarlı görü projeleri
-- THD'de görüntü işleme araştırması
+- YOLOv8 ve Edge AI ile gerçek zamanlı bilgisayarlı görü
+- Endüstriyel sensör akışları için denetimsiz anomali tespiti
+- Termal/soğutma sistemleri için dijital ikiz metodolojisi
 
 ### Deneyim öne çıkanlar
 
@@ -110,13 +128,13 @@ Veri, yapay zeka ve gömülü sistemlerin kesişim noktasında projeler gelişti
 
 ### Kodun ötesinde
 
-Türkiye Gençler Tenis Şampiyonu (2014) · 18+ yıl profesyonel rekabetçi deneyim · 1. FC Nürnberg'de aktif rekabet · Regensburg Üniversitesi ve FAU Erlangen-Nürnberg'de antrenörlük
+Türkiye Gençler Tenis Şampiyonu (2014) · 18+ yıl profesyonel rekabetçi deneyim · 1. FC Nürnberg'de aktif rekabet · FAU Erlangen-Nürnberg ve Regensburg Üniversitesi'nde antrenörlük
 
 ### Beni bul
 
-[![Portfolyo](https://img.shields.io/badge/Portfolyo-portfolio--recepuzun.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
+[![Portfolyo](https://img.shields.io/badge/Portfolyo-recepuzun.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-recep--ulas--uzun-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-ulas-uzun/)
-[![E-posta](https://img.shields.io/badge/E--posta-ulasch__uzun%40hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ulasch_uzun@hotmail.com)
+[![E-posta](https://img.shields.io/badge/E--posta-recepulas.uzun%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:recepulas.uzun@gmail.com)
 
 ---
 
