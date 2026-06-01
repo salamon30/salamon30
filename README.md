@@ -51,8 +51,11 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salamon30&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salamon30&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salamon30&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamon30&theme=github_dark" height="150"/>
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=salamon30&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
