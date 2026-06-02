@@ -64,7 +64,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 
 - **[Active]** Low-altitude drone object detection — custom dataset annotation + YOLOv8 fine-tuning (Fraunhofer IVI)
 - **[Active]** Edge AI deployment experiments — running inference on embedded hardware
-- **[Active]** Open to Werkstudent roles in AI / ML / computer vision in Bayern
+- **[Seeking]** Werkstudent position in AI / ML / Computer Vision — available immediately, Bayern preferred
 
 ---
 
