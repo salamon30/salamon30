@@ -1,4 +1,4 @@
-<img src="https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/me/avatar.png" alt="Recep Ulaş Uzun" width="120" align="right" style="border-radius:50%;margin-left:16px"/>
+<img src="avatar.png" alt="Recep Ulaş Uzun" width="120" align="right" style="border-radius:50%;margin-left:16px"/>
 
 # Recep Ulaş Uzun
 
