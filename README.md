@@ -20,6 +20,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 | [**Helmet Detection**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | 92.8% mAP@50 · real-time PPE compliance monitoring |
 | [**Sensor Anomaly Detection**](https://github.com/salamon30/sensor-anomaly-detection) | Isolation Forest · scikit-learn | 95% F1 · unsupervised, no labels needed |
 | [**Coil Cooling Digital Twin**](https://github.com/salamon30/cool-cooling) | Python · Streamlit · SciPy | Industry collab with Borçelik — live thermal simulation |
+| [**Werkstudent Agent**](https://github.com/salamon30/werkstudent-agent) | Python · Claude API · BeautifulSoup | Daily job digest + AI-generated cover letters |
 
 ---
 
@@ -64,6 +65,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 
 - **[Active]** Low-altitude drone object detection — custom dataset annotation + YOLOv8 fine-tuning (Fraunhofer IVI)
 - **[Active]** Edge AI deployment experiments — running inference on embedded hardware
+- **[New]** [werkstudent-agent](https://github.com/salamon30/werkstudent-agent) — Claude-powered job search agent: daily digest email + AI cover letter generation
 - **[Seeking]** Werkstudent position in AI / ML / Computer Vision — available immediately, Bayern preferred
 
 ---
