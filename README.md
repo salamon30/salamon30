@@ -4,7 +4,7 @@
 
 **M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Erlangen, Germany**
 
-I build things at the intersection of **computer vision, industrial AI, and embedded systems**. Currently pursuing my master's (GPA 1.0), after a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
+I build things at the intersection of **computer vision, industrial AI, and embedded systems**. Currently pursuing my master's, after a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-ulas-uzun/)
