@@ -16,6 +16,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 
 | Project | Stack | Highlight |
 |---|---|---|
+| [**Medical AI Paper QA**](https://github.com/salamon30/rag-project) | RAG · ChromaDB · Cross-encoder · NVIDIA NIM | Cited answers or "I don't know" · reranker: right page 0.45 → 0.90 · 60-question eval, 72 tests in CI |
 | [**Low-Altitude Aerial Detection**](https://github.com/BUAksakal/low-altitude-aerial-detection) | YOLOv8 · PyTorch · CVAT | THI × Fraunhofer IVI × THD — 3–9m drone footage, custom dataset |
 | [**Helmet Detection**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | 92.8% mAP@50 · real-time PPE compliance monitoring |
 | [**Sensor Anomaly Detection**](https://github.com/salamon30/sensor-anomaly-detection) | Isolation Forest · scikit-learn | 95% F1 · unsupervised, no labels needed |
@@ -65,6 +66,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 
 - **[Active]** Low-altitude drone object detection — custom dataset annotation + YOLOv8 fine-tuning (Fraunhofer IVI)
 - **[Active]** Edge AI deployment experiments — running inference on embedded hardware
+- **[New]** [rag-project](https://github.com/salamon30/rag-project) — evaluated RAG pipeline over medical-AI papers: cited answers, reranker, held-out test set
 - **[New]** [werkstudent-agent](https://github.com/salamon30/werkstudent-agent) — Claude-powered job search agent: daily digest email + AI cover letter generation
 - **[Seeking]** Werkstudent position in AI / ML / Computer Vision — available immediately, Bayern preferred
 
