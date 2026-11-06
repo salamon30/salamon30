@@ -4,7 +4,7 @@
 
 **M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Erlangen, Germany**
 
-I build things at the intersection of **computer vision, industrial AI, and embedded systems**. Currently pursuing my master's, after a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
+I build things at the intersection of **computer vision, LLM systems, industrial AI, and embedded systems**. Currently pursuing my master's, after a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-lemon-nu-ba4w5tqwof.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/recep-ulas-uzun/)
@@ -17,6 +17,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 | Project | Stack | Highlight |
 |---|---|---|
 | [**Medical AI Paper QA**](https://github.com/salamon30/rag-project) | RAG · ChromaDB · Cross-encoder · NVIDIA NIM | Cited answers or "I don't know" · reranker: right page 0.45 → 0.90 · 60-question eval, 72 tests in CI |
+| [**In-Car Assistant Evaluation**](https://github.com/salamon30/car-assistant-eval) | LLM tool calling · Whisper · ffmpeg · NVIDIA NIM | 3 test levels from text to noisy speech, 270 runs · text tests catch 1 of 20 real bugs · prompt fix 86/90 → 90/90 |
 | [**Low-Altitude Aerial Detection**](https://github.com/BUAksakal/low-altitude-aerial-detection) | YOLOv8 · PyTorch · CVAT | THI × Fraunhofer IVI × THD — 3–9m drone footage, custom dataset |
 | [**Helmet Detection**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | 92.8% mAP@50 · real-time PPE compliance monitoring |
 | [**Sensor Anomaly Detection**](https://github.com/salamon30/sensor-anomaly-detection) | Isolation Forest · scikit-learn | 95% F1 · unsupervised, no labels needed |
@@ -66,6 +67,7 @@ I build things at the intersection of **computer vision, industrial AI, and embe
 
 - **[Active]** Low-altitude drone object detection — custom dataset annotation + YOLOv8 fine-tuning (Fraunhofer IVI)
 - **[Active]** Edge AI deployment experiments — running inference on embedded hardware
+- **[New]** [car-assistant-eval](https://github.com/salamon30/car-assistant-eval) — multi-fidelity evaluation of an in-car LLM assistant: text, simulated ASR errors, real speech + noise + Whisper, budget strategies
 - **[New]** [rag-project](https://github.com/salamon30/rag-project) — evaluated RAG pipeline over medical-AI papers: cited answers, reranker, held-out test set
 - **[New]** [werkstudent-agent](https://github.com/salamon30/werkstudent-agent) — Claude-powered job search agent: daily digest email + AI cover letter generation
 - **[Seeking]** Werkstudent position in AI / ML / Computer Vision — available immediately, Bayern preferred
