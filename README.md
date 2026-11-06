@@ -4,7 +4,7 @@
 
 # Recep Ulaş Uzun
 
-**M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Erlangen, Germany**
+**M.Eng. AI for Smart Sensors & Actuators · THD Deggendorf · Bavaria, Germany**
 
 I build things at the intersection of **computer vision, LLM systems, industrial AI, and embedded systems**. Currently pursuing my master's, after a B.Sc. in Computer Engineering on a full scholarship. Open to working student roles in Bayern.
 
