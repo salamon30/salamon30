@@ -18,7 +18,7 @@ I build things at the intersection of **computer vision, LLM systems, industrial
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [**Medical AI Paper QA**](https://github.com/salamon30/rag-project) | RAG · ChromaDB · Cross-encoder · NVIDIA NIM | Cited answers or "I don't know" · reranker: right page 0.45 → 0.90 · 60-question eval, 72 tests in CI |
+| [**Medical AI Paper QA**](https://github.com/salamon30/rag-project) | RAG · ChromaDB · Cross-encoder · NVIDIA NIM | Cited answers or "I don't know" · reranker: right page 0.45 → 0.90 · 60-question eval · [**live demo**](https://medical-ai-papers.streamlit.app/) |
 | [**In-Car Assistant Evaluation**](https://github.com/salamon30/car-assistant-eval) | LLM tool calling · Whisper · ffmpeg · NVIDIA NIM | 3 test levels from text to noisy speech, 270 runs · text tests catch 1 of 20 real bugs · prompt fix 86/90 → 90/90 |
 | [**Low-Altitude Aerial Detection**](https://github.com/BUAksakal/low-altitude-aerial-detection) | YOLOv8 · PyTorch · CVAT | THI × Fraunhofer IVI × THD — 3–9m drone footage, custom dataset |
 | [**Helmet Detection**](https://github.com/salamon30/helmet-detection) | YOLOv8s · Streamlit | 94.9% mAP@50 · real-time PPE compliance monitoring |
@@ -36,7 +36,7 @@ I build things at the intersection of **computer vision, LLM systems, industrial
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/salamon30/rag-project"><img src="https://raw.githubusercontent.com/salamon30/rag-project/main/docs/architecture.svg" alt="RAG pipeline with reranking and grounded answers"/></a>
-      <br/><b>RAG with measured steps.</b> Every stage was evaluated before the next; the reranker doubled right-page retrieval from 0.45 to 0.90.
+      <br/><b>RAG with measured steps.</b> Every stage was evaluated before the next; the reranker doubled right-page retrieval from 0.45 to 0.90. <a href="https://medical-ai-papers.streamlit.app/">Try the live demo →</a>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I build things at the intersection of **computer vision, LLM systems, industrial
 
 **Recently shipped**
 - **Nov 2026** · [car-assistant-eval](https://github.com/salamon30/car-assistant-eval) — multi-fidelity evaluation of an in-car LLM assistant: text, simulated ASR errors, real speech + noise + Whisper, budget strategies
-- **Oct 2026** · [rag-project](https://github.com/salamon30/rag-project) — evaluated RAG pipeline over medical-AI papers: cited answers, reranker, held-out test set
+- **Oct 2026** · [rag-project](https://github.com/salamon30/rag-project) — evaluated RAG pipeline over medical-AI papers: cited answers, reranker, held-out test set, [live demo](https://medical-ai-papers.streamlit.app/)
 - **Jun 2026** · [werkstudent-agent](https://github.com/salamon30/werkstudent-agent) — Claude-powered job search agent: daily digest email + AI cover letter generation
 
 ---
